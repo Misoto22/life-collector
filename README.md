@@ -1,6 +1,6 @@
 # Life Collector - Personal Collection Hub
 
-[中文版本](README.zh-CN.md) | English
+[中文](README.zh-CN.md) | English
 
 Life Collector is a modern web application for managing personal collections, helping you record and share beautiful moments in life.
 

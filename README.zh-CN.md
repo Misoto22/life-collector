@@ -1,6 +1,6 @@
 # Life Collector - 个人生活收藏夹
 
-English | [中文版本](README.zh-CN.md)
+English | [中文](README.zh-CN.md)
 
 Life Collector 是一个现代化的个人收藏管理 Web 应用，帮助你记录和分享生活中的美好时刻。
 
@@ -53,6 +53,6 @@ Life Collector 是一个现代化的个人收藏管理 Web 应用，帮助你记
 - 离线功能支持
 - PWA 支持
 
-## �� 许可证
+## 📄 许可证
 
-MIT License 
+MIT License
